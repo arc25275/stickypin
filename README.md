@@ -1,7 +1,9 @@
-# stickypin
-A discord bot that can keep Pins at the top of the pin list in a channel
+# Stickypin
+A discord bot that can keep pins at the top of the pin list in a channel. 
 
-How to use (Assuming you have nodejs and git installed) : 
+![](https://media.discordapp.net/attachments/788539859555450922/792970900445724672/ezgif.com-optimize.gif)
+
+# How to use (Assuming you have nodejs and git installed) : 
 
 ## 1. Cloning
 ```
